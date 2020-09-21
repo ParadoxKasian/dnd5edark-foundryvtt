@@ -1,7 +1,7 @@
 {
   "name": "dnd5e-dark-mode222",
   "title": "D&D5E Dark Mode2222",
-  "description": "A dark sheet style for the default D&D5E character and NPC sheets.",
+  "description": "A dark2 sheet style for the default D&D5E character and NPC sheets.",
   "version": "2.0.5",
   "author": "ParadoxKasian",
   "systems": ["dnd5e"],
@@ -9,9 +9,9 @@
   "styles": ["dnd5edark.css", "betternpcsheet-dark.css", "dark-mode.css"],
   "esmodules": ["dnd5edark.js"],
   "packs": [],
-  "url": "https://github.com/ParadoxKasian/dnd5edark-foundryvtt",
-    "manifest": "https://raw.githubusercontent.com/ParadoxKasian/dnd5edark-foundryvtt/master/module.json",
-    "download": "https://github.com/ParadoxKasian/dnd5edark-foundryvtt/raw/master/dnd5e-dark-mode.zip",
+  "url": "https://github.com/ParadoxKasian/dnd5edark-foundryvtt2",
+    "manifest": "https://raw.githubusercontent.com/ParadoxKasian/dnd5edark-foundryvtt2/master/module.json",
+    "download": "https://github.com/ParadoxKasian/dnd5edark-foundryvtt2/raw/master/dnd5e-dark-mode.zip",
   "compatibleCoreVersion" : "0.6.2",
   "minimumCoreVersion": "0.6.0"
 }
