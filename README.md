@@ -74,7 +74,7 @@ _________________
 ## Installation
 1. Copy this link and use it in Foundrys Module Manager to install the Module
 
-    > https://raw.githubusercontent.com/Stryxin/dnd5edark-foundryvtt/master/module.json
+    > https://raw.githubusercontent.com/ParadoxKasian/dnd5edark-foundryvtt/master/module.json
     
 2. Enable the Module in your Worlds Module Settings
 
